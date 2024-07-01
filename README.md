@@ -26,6 +26,11 @@ script: https://cdn.jsdelivr.net/npm/algebrite@1.4.0/dist/algebrite.bundle-for-b
 
 -->
 
+__Open in:__
+
+* LiaScript: https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Transforming-Education/main/README.md
+* LiveEditor: https://liascript.github.io/LiveEditor/?/show/file/https://raw.githubusercontent.com/LiaPlayground/Transforming-Education/main/README.md
+
 # Transforming Education
 
 --------------------------------------------------

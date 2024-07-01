@@ -13,7 +13,6 @@ comment:  In this presentation, we explore innovative approaches to digital educ
 
 logo:     img/logo.webp
 
-link: style.css
 link: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
 
 script: https://cdn.jsdelivr.net/npm/algebrite@1.4.0/dist/algebrite.bundle-for-browser.min.js
@@ -23,6 +22,48 @@ script: https://cdn.jsdelivr.net/npm/algebrite@1.4.0/dist/algebrite.bundle-for-b
   Algebrite.run(`@input`)
 </script>
 @end
+
+@style
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+}
+
+.flex-child{
+  flex: 1;
+  margin-right: 20px;
+}
+
+@media (max-width: 600px) {
+  .flex-child {
+    flex: 100%;
+    margin-right: 0;
+  }
+}
+
+@keyframes burn {
+  0% {
+    text-shadow: 0 0 5px #ff0, 0 0 10px #ff0, 0 0 15px #f00, 0 0 20px #f00,
+      0 0 25px #f00, 0 0 30px #f00, 0 0 35px #f00;
+  }
+  50% {
+    text-shadow: 0 0 10px #ff0, 0 0 15px #ff0, 0 0 20px #ff0, 0 0 25px #f00,
+      0 0 30px #f00, 0 0 35px #f00, 0 0 40px #f00;
+  }
+  100% {
+    text-shadow: 0 0 5px #ff0, 0 0 10px #ff0, 0 0 15px #f00, 0 0 20px #f00,
+      0 0 25px #f00, 0 0 30px #f00, 0 0 35px #f00;
+  }
+}
+
+.burning-text {
+  font-weight: bold;
+  color: #fff;
+  animation: burn 1.5s infinite alternate;
+}
+@end
+
 
 -->
 

@@ -7,7 +7,7 @@ version:  0.0.1
 
 language: en
 
-narrator: US English Male
+narrator: UK English Male
 
 comment:  In this presentation, we explore innovative approaches to digital education and content sharing using open-source technologies. We discuss the challenges of creating interactive and collaborative Open Educational Resources (OER) and demonstrate how tools like LiaScript and WebRTC can enhance educational experiences. We delve into the use of Conflict-Free Replicated Data Types (CRDTs) for decentralized synchronization and highlight the potential of IPFS and OnionShare for secure content distribution. Furthermore, we introduce edrys and its browser-based counterpart, edrys-Lite, showcasing their modular frameworks for remote labs and classrooms. These tools enable seamless hardware sharing and collaborative learning through decentralized, real-time interactions. Join us to discover how these technologies can revolutionize your educational projects and make them more accessible, interactive, and secure.
 

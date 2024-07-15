@@ -754,7 +754,7 @@ Using libraries for synchronization tasks is incredibly helpful—you don't simp
     --{{0}}--
 So, what is required to implement a remote lab?
 
-     {{0-1}}
+     {{0-2}}
 - [[X]] WebRTC
 - [[X]] CRDTs
 - [[ ]] and a server
@@ -785,6 +785,6 @@ Browser tabs operating in station mode share access to locally connected hardwar
     --{{5}}--
 Based on edrys, we implemented a browser-based clone called edrys-Lite. In edrys-Lite, the pub-sub mechanism is built on top of [P2PT](#P2PT), and a custom CRDT implementation is used to synchronize the state of the classroom, including the chat functionality.
 
-      {{6}}
+      {{5}}
 https://edrys-labs.github.io
 

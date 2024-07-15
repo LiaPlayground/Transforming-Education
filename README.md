@@ -91,7 +91,17 @@ __LinkedIn:__ https://www.linkedin.com/in/andr%C3%A9-dietrich-73949415/
 
 __Presentation:__ https://github.com/LiaPlayground/Transforming-Education
 
-[qr-code](https://github.com/LiaPlayground/Transforming-Education)
+--------------------------------------------------
+
+<div class="flex-container">
+
+<!-- class="flex-child" -->
+[qr-code](https://github.com/LiaPlayground/Transforming-Education "GitHub-Repository with Presentation")
+
+<!-- class="flex-child" -->
+[qr-code](https://liascript.github.io/course/?https://raw.githubusercontent.com/LiaPlayground/Transforming-Education/main/README.md "Interactive LiaScript version")
+
+</div>
 
 **************************************************
 

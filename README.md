@@ -78,6 +78,23 @@ __Open in:__
 A Journey from Interactive Markdown to Remote-Labs
 ==================================================
 
+__Dr. André Dietrich / TU Bergakademie Freiberg__
+
+     {{0-1}}
+**************************************************
+
+__eMail:__ [LiaScript\@web.de](mailto:LiaScript@web.de)
+
+__Twitter/X:__ [\@LiaScript](https://x.com/LiaScript)
+
+__LinkedIn:__ https://www.linkedin.com/in/andr%C3%A9-dietrich-73949415/
+
+__Presentation:__ https://github.com/LiaPlayground/Transforming-Education
+
+[qr-code](https://github.com/LiaPlayground/Transforming-Education)
+
+**************************************************
+
       {{1}}
 ![Journey through a futuristic education jungle](img/logo.webp)
 
